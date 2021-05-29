@@ -1,2 +1,2 @@
 pymssql
-pandas
+pandas==1.24
